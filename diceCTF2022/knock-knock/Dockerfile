@@ -1,4 +1,4 @@
-FROM node:17.4.0-buster-slim
+FROM node:17.9.0-buster-slim
 
 RUN mkdir -p /app
 
