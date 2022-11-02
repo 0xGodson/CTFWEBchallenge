@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic-20220830
 
 RUN  sed -i s@/archive.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list
 RUN  apt-get clean && apt-get update && apt-get install -y curl \
