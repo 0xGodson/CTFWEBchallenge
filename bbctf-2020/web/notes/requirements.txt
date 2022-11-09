@@ -11,10 +11,10 @@ Flask-WTF==0.14.3
 gunicorn==20.0.4
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 jsmin==2.2.2
 lesscpy==0.13.0
-markdown2==2.3.8
+markdown2==2.4.4
 MarkupSafe==1.1.1
 ply==3.11
 psutil==5.7.0
