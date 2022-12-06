@@ -11,7 +11,7 @@ COPY ./app .
 RUN npm run build
 
 
-FROM nginx
+FROM nginx:1.23.2
 
 COPY --from=build /app/dist /app
 
