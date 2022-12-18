@@ -1,4 +1,4 @@
-FROM wordpress:5.8.0-apache
+FROM wordpress:5.9.1-apache
 
 # These are identical on remote
 ARG SHOPUSER=productmanager
