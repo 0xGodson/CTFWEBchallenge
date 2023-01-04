@@ -17,6 +17,6 @@
     "mime-db": "^1.44.0",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.4",
-    "selenium-webdriver": "^4.0.0-alpha.7"
+    "selenium-webdriver": "^4.0.0"
   }
 }
