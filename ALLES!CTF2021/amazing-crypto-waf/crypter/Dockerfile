@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:3.12.0a1-alpine
 
 RUN apk update
 RUN apk add py-pip gmp python3-dev gcc g++ make libffi-dev openssl-dev
