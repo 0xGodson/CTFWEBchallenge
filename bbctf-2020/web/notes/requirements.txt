@@ -32,5 +32,5 @@ tqdm==4.45.0
 urllib3==1.25.8
 webassets==2.0
 websockets==8.1
-Werkzeug==1.0.0
+Werkzeug==2.2.3
 WTForms==2.2.1
