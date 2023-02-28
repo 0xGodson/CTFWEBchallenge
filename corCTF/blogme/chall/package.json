@@ -18,6 +18,6 @@
     "express-session-sequelize": "^2.3.0",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.1",
-    "sequelize": "^6.6.5"
+    "sequelize": "^6.29.0"
   }
 }
