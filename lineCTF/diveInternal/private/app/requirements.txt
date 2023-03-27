@@ -11,5 +11,5 @@ requests==2.25.0
 slackbot==1.0.0
 python-telegram-bot==13.2
 python-dotenv==0.12.0
-redis==3.5.3
+redis==4.3.6
 jsonify
