@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 ENV DEBIAN_FRONTEND=noninteractive 
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
