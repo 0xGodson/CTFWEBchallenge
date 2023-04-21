@@ -13,7 +13,7 @@
     "fastify-cookie": "^3.6.1",
     "fastify-formbody": "^3.2.0",
     "fastify-session": "^4.0.1",
-    "nunjucks": "^3.2.1",
+    "nunjucks": "^3.2.4",
     "point-of-view": "^3.8.0"
   }
 }
