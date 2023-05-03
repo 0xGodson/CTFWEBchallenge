@@ -1,6 +1,6 @@
 schedule==0.6.0
 requests_toolbelt==0.9.1
-flask==1.0.2
+flask==2.2.5
 flask_api==1.1
 flask_cors==3.0.8
 flask-bootstrap==3.3.7.1
