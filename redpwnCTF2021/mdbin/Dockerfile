@@ -9,7 +9,7 @@ COPY src/ src/
 
 RUN yarn build
 
-FROM nginx
+FROM nginx:1-bullseye
 
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=build /app/build /usr/share/nginx/html
