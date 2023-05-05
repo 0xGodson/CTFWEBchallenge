@@ -1,2 +1,2 @@
-FROM postgres:latest
+FROM postgres:15-bullseye
 ADD 1-init.sql /docker-entrypoint-initdb.d/1-init.sql
