@@ -16,7 +16,7 @@
     "jsonwebtoken": "^8.5.1",
     "mime-db": "^1.44.0",
     "mysql": "^2.18.1",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.17",
     "selenium-webdriver": "^4.0.0-alpha.7"
   }
 }
