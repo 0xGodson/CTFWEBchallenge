@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "*",
-    "puppeteer": "*"
+    "express": "4.17.3",
+    "puppeteer": "13.1.2"
   }
 }
