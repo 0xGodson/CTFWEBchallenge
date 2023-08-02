@@ -1,6 +1,6 @@
 cffi==1.14.0
 click==7.1.2
-cryptography==2.9.2
+cryptography==41.0.3
 Flask==1.1.2
 itsdangerous==1.1.0
 Jinja2==2.11.2
