@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.18.3
 RUN apk add rust python3 py-pip libseccomp-dev cargo
 RUN python3 -m pip install flask beautifulsoup4 gunicorn
 
