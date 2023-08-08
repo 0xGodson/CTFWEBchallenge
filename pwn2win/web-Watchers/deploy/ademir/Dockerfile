@@ -8,7 +8,7 @@ RUN go mod download
 
 RUN go build
 
-FROM alpine:latest
+FROM alpine:3.18.3
 
 WORKDIR /app
 
