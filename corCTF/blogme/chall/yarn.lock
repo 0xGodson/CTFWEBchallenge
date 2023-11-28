@@ -73,12 +73,12 @@ brace-expansion@^1.1.7:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
 
-busboy@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.nlark.com/busboy/download/busboy-0.3.1.tgz#170899274c5bf38aae27d5c62b71268cd585fd1b"
-  integrity sha1-FwiZJ0xb84quJ9XGK3EmjNWF/Rs=
+busboy@^1.0.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/busboy/-/busboy-1.6.0.tgz#966ea36a9502e43cdb9146962523b92f531f6893"
+  integrity sha512-8SFQbg/0hQ9xy3UNTB0YEnsNBbWfhf7RtnzpL7TkBiTBRfrQ9Fxcnz7VJsleJpyp6rVLvXiuORqjlHi5q+PYuA==
   dependencies:
-    dicer "0.3.0"
+    streamsearch "^1.1.0"
 
 bytes@3.1.0:
   version "3.1.0"
@@ -186,13 +186,6 @@ destroy@~1.0.4:
   resolved "https://registry.nlark.com/destroy/download/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
   integrity sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
 
-dicer@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.nlark.com/dicer/download/dicer-0.3.0.tgz#eacd98b3bfbf92e8ab5c2fdb71aaac44bb06b872"
-  integrity sha1-6s2Ys7+/kuirXC/bcaqsRLsGuHI=
-  dependencies:
-    streamsearch "0.1.2"
-
 dotenv@^10.0.0:
   version "10.0.0"
   resolved "https://registry.nlark.com/dotenv/download/dotenv-10.0.0.tgz?cache=0&sync_timestamp=1621627076012&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fdotenv%2Fdownload%2Fdotenv-10.0.0.tgz#3d4227b8fb95f81096cdd2b66653fb2c7085ba81"
@@ -236,9 +229,9 @@ etag@~1.8.1:
   integrity sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
 
 express-session-sequelize@^2.3.0:
-  version "2.2.0"
-  resolved "https://registry.nlark.com/express-session-sequelize/download/express-session-sequelize-2.2.0.tgz#4ab3ebc5a0d29884258e71178b90b46011568aeb"
-  integrity sha1-SrPrxaDSmIQljnEXi5C0YBFWius=
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/express-session-sequelize/-/express-session-sequelize-2.3.0.tgz#19cdd65670a09c9e9603acb2be4b50d3f3452be1"
+  integrity sha512-jwYfB5XueswXKXPstN+vNdU+lbu0oztcrPW5NVV0hgtB0GMm6AQPzrpWLAshvzSBnttXqfkiW1ur8W67k0FMdg==
 
 express-session@^1.17.2:
   version "1.17.2"
@@ -635,10 +628,10 @@ setprototypeof@1.1.1:
   resolved "https://registry.npm.taobao.org/statuses/download/statuses-1.5.0.tgz#161c7dac177659fd9811f43771fa99381478628c"
   integrity sha1-Fhx9rBd2Wf2YEfQ3cfqZOBR4Yow=
 
-streamsearch@0.1.2:
-  version "0.1.2"
-  resolved "https://registry.nlark.com/streamsearch/download/streamsearch-0.1.2.tgz#808b9d0e56fc273d809ba57338e929919a1a9f1a"
-  integrity sha1-gIudDlb8Jz2Am6VzOOkpkZoanxo=
+streamsearch@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/streamsearch/-/streamsearch-1.1.0.tgz#404dd1e2247ca94af554e841a8ef0eaa238da764"
+  integrity sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg==
 
 supports-color@^5.3.0:
   version "5.5.0"
