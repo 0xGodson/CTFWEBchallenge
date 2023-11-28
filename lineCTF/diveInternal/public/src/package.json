@@ -14,7 +14,7 @@
     "dotenv": "^8.2.0",
     "ejs": "~2.6.1",
     "express": "~4.16.1",
-    "express-fileupload": "^1.2.1",
+    "express-fileupload": "^1.4.0",
     "fs-extra": "^9.1.0",
     "http-error": "0.0.6",
     "http-errors": "~1.6.3",
