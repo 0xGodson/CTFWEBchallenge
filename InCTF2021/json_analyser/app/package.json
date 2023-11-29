@@ -6,7 +6,7 @@
   "dependencies": {
     "config-handler": "^2.0.3",
     "express": "^4.17.1",
-    "express-fileupload": "^1.2.1",
+    "express-fileupload": "^1.4.0",
     "nodemon": "^2.0.12",
     "squirrelly": "^8.0.8"
   },
