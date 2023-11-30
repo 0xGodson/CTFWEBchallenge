@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "libxmljs": "^0.19.7",
+    "libxmljs": "^0.19.8",
     "mysql": "^2.18.1",
-    "puppeteer": "^2.1.1",
+    "puppeteer": "^18.2.0",
     "sanitize-html": "^1.22.1"
   }
 }
