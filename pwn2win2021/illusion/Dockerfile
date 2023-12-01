@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:21.2-alpine3.18
 
 EXPOSE 1337
 
