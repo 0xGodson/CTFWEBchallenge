@@ -5,6 +5,6 @@ ruby '~> 2.7'
 
 gem 'rails', '~> 6.1.4'
 gem 'sqlite3', '~> 1.4'
-gem 'puma', '~> 5.0'
+gem 'puma', '~> 5.6', '>= 5.6.8'
 gem 'sass-rails', '>= 6'
 gem 'rack-attack', '~> 6.5'
