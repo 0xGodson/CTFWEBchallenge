@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:3.13.0a4-alpine
 RUN  pip install --no-cache-dir flask gunicorn
 
 RUN addgroup -S ctf && adduser -S ctf -G ctf
