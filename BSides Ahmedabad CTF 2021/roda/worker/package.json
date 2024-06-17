@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "ioredis": "^4.27.9",
-    "puppeteer": "^10.4.0"
+    "puppeteer": "^22.6.4"
   }
 }
