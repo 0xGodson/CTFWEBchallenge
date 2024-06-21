@@ -1,4 +1,4 @@
-FROM node:lts-alpine as base
+FROM node:20.14.0-alpine3.20 as base
 
 ADD ./src /src
 WORKDIR /src
