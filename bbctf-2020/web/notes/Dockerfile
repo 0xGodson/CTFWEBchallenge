@@ -1,4 +1,4 @@
-FROM python:alpine
+FROM python:3.12.4-alpine3.20
 
 RUN apk add --no-cache postgresql-libs && \
 		apk add --no-cache --virtual .build-deps gcc musl-dev postgresql-dev chromium udev ttf-freefont linux-headers
