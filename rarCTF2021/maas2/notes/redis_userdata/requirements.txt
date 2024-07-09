@@ -1,3 +1,4 @@
 MarkupSafe==2.0.1
 flask
 redis
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
