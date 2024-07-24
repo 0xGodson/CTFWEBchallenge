@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:20.15.1-alpine3.20
 
 # https://github.com/puppeteer/puppeteer/blob/v1.12.1/docs/troubleshooting.md#running-on-alpine
 # Installs latest Chromium (71) package.
