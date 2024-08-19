@@ -4,3 +4,6 @@ rq==1.2.0
 rq-dashboard==0.5.1
 requests==2.20.0
 requests-testadapter==0.3.0
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
