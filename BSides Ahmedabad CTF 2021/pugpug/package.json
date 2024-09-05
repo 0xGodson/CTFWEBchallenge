@@ -8,6 +8,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "jquery-deparam": "0.5.3",
-    "pug": "^3.0.2"
+    "pug": "^3.0.3"
   }
 }
