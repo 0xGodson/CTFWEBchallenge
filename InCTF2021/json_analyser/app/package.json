@@ -7,7 +7,7 @@
     "config-handler": "^2.0.3",
     "express": "^4.17.1",
     "express-fileupload": "^1.2.1",
-    "nodemon": "^2.0.12",
+    "nodemon": "^3.0.0",
     "squirrelly": "^8.0.8"
   },
   "devDependencies": {},
