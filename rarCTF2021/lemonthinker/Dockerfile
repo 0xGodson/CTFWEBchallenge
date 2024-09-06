@@ -1,5 +1,5 @@
 # lemonthinker
-FROM python:3-alpine
+FROM python:3.13.0a1-alpine
 
 RUN pip install --no-cache-dir flask gunicorn
 RUN apk add --update --no-cache --virtual .tmp gcc libc-dev linux-headers
