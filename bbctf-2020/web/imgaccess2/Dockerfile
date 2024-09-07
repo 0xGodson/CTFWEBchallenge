@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.20.3
 MAINTAINER Mrigank Krishan (mrigankkrishan@gmail.com)
 # install required packages
 RUN apk add -U python3 apache2 apache2-proxy php7-apache2
