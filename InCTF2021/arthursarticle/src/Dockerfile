@@ -1,4 +1,4 @@
-FROM golang:1.16.6
+FROM golang:1.22.7
 
 ENV APP_NAME notepad15
 
