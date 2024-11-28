@@ -12,7 +12,7 @@
     "@types/concat-stream": "^1.6.0",
     "@types/dockerode": "^2.5.34",
     "@types/tmp": "^0.2.0",
-    "axios": "^0.20.0",
+    "axios": "^1.7.8",
     "bluebird": "^3.7.2",
     "concat-stream": "^2.0.0",
     "dockerode": "^3.2.1",
