@@ -6,7 +6,7 @@
   "author": "s1r1us",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "jquery-deparam": "0.5.3",
     "pug": "^3.0.2"
   }
