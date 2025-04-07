@@ -15,7 +15,7 @@
     "axios": "^0.20.0",
     "bluebird": "^3.7.2",
     "concat-stream": "^2.0.0",
-    "dockerode": "^3.2.1",
+    "dockerode": "^4.0.5",
     "fastify": "^3.5.1",
     "fastify-static": "^3.2.1",
     "tmp": "^0.2.1",
